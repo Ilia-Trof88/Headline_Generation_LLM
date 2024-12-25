@@ -1,3 +1,4 @@
 data_preprocessing/новости_тематики_экономика.csv
-project-env
-parsing
+project-env/
+parsing/
+data_preprocessing/
